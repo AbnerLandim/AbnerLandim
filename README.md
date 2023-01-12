@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbnerLandim&label=Profile%20views&color=0e75b6&style=flat" alt="AbnerLandim" /> </p>
 
-- 🔭 I’m currently working on [ExxonMobil](https://corporate.exxonmobil.com/)
+- 🔭 I’m currently working on [InAllMedia](https://www.linkedin.com/company/inallmedia/mycompany/)
 - 🌱 I’m currently learning Web and Mobile Development
 - 💬 Ask me about Javascript, ReactJS, React Native, NodeJS
 - 📫 How to reach me: **abner.landim340@gmail.com**
